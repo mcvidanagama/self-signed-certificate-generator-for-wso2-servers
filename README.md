@@ -1,8 +1,8 @@
 ### self-signed-certificate-generator-for-wso2-servers
 
-##This repo is related to the article '' on medium
+## This repo is related to the article '' on medium
 
-#This bash script will generate self certificates for a set of wso2 products and will update all keystores and truststores.
+### This bash script will generate self certificates for a set of wso2 products and will update all keystores and truststores.
 
 How to use :
 * 01. Clone the Repo
