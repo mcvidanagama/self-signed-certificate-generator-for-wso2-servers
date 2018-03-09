@@ -7,12 +7,13 @@
 How to use :
 1. Clone the Repo
 2. Create folders with required hostnames inside cloned dir
-  eg : store.apim.dev.mycompany.com
-       publisher.apim.dev.mycompany.com
-       ei.dev.mycompany.com
-       eian.dev.mycompany.com
-       iam.dev.mycompany.com
-       apiman.dev.mycompany.com
+  - eg : 
+       - store.apim.dev.mycompany.com
+       - publisher.apim.dev.mycompany.com
+       - ei.dev.mycompany.com
+       - eian.dev.mycompany.com
+       - iam.dev.mycompany.com
+       - apiman.dev.mycompany.com
 
 3. Copy .jks files from wso2 server to above created folders
         |---exchange_certificates.sh
