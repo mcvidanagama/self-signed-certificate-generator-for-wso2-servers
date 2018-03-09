@@ -47,5 +47,5 @@
 
 ##### 6. Copy updated .jks files to the relavant WSO2 servers back.
 
-##### 7. Open conf/carbon.xml in each server and change the value of <KeyAlias> with relavent hostnames (hostnames=folder names as in step 2)
+##### 7. Open conf/carbon.xml in each server and change the value of *KeyAlias* with relavent hostnames (hostnames=folder names as in step 2)
          eg: <KeyAlias>apim.dev.mycompany.com</KeyAlias>
