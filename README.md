@@ -7,7 +7,7 @@
 How to use :
 1. Clone the Repo
 2. Create folders with required hostnames inside cloned dir
-  - eg : 
+    eg : 
        - store.apim.dev.mycompany.com
        - publisher.apim.dev.mycompany.com
        - ei.dev.mycompany.com
