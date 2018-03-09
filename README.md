@@ -2,7 +2,7 @@
 
 ### This bash script will generate self certificates for a set of wso2 products and will update all keystores and truststores.
 
-> This repo is related to the article '' on medium
+> This repo is related to the medium article https://medium.com/@mcvidanagama/exchanging-self-signed-certificates-for-wso2-servers-6db83b5e806f
 
 ## How to use :
 ##### 1. Clone the Repo
