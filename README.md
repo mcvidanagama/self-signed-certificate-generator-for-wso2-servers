@@ -1,4 +1,4 @@
-### self-signed-certificate-generator-for-wso2-servers
+# self-signed-certificate-generator-for-wso2-servers
 
 ## This repo is related to the article '' on medium
 
