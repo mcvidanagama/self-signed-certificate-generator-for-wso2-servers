@@ -2,11 +2,11 @@
 
 ### This bash script will generate self certificates for a set of wso2 products and will update all keystores and truststores.
 
-**This repo is related to the article '' on medium**
+> This repo is related to the article '' on medium
 
-How to use :
-1. Clone the Repo
-2. Create folders with required hostnames inside cloned dir
+## How to use :
+##### 1. Clone the Repo
+##### 2. Create folders with required hostnames inside cloned dir
     eg : 
        - store.apim.dev.mycompany.com
        - publisher.apim.dev.mycompany.com
@@ -15,7 +15,7 @@ How to use :
        - iam.dev.mycompany.com
        - apiman.dev.mycompany.com
 
-3. Copy .jks files from wso2 server to above created folders
+##### 3. Copy .jks files from wso2 server to above created folders
         |---exchange_certificates.sh
         ├── apim.dev.mycompany.com
         │   ├── client-truststore.jks
@@ -33,8 +33,8 @@ How to use :
             ├── client-truststore.jks
             └── wso2carbon.jks
             
-4. Run script
+##### 4. Run script
       sh exchange_certificates.sh
 
-5. Copy updated .jks files to the relavant WSO2 servers back.
+##### 5. Copy updated .jks files to the relavant WSO2 servers back.
 
